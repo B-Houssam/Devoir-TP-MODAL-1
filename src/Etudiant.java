@@ -33,10 +33,10 @@ public class Etudiant implements Serializable{
 	
 	//pour lire les enregistrement lut
 	public void read() {
-		System.out.println("L'Etudiant lit est: \n"+ this.prenom+" "+this.nom+"\nMatricule: "+ this.mat +"\nNiveau: " +this.niv+"\nSpecialité: "+this.spec+"\n");
+		System.out.println("\nL'Etudiant lit est: \n"+ this.prenom+" "+this.nom+"\nMatricule: "+ this.mat +"\nNiveau: " +this.niv+"\nSpecialité: "+this.spec+"\n");
 	}
 	
-
+	//pour savgarder les objets en fichier .ser
 	public void save() {
 		// TODO Auto-generated method stub
 		try {
@@ -58,18 +58,19 @@ public class Etudiant implements Serializable{
 		}
 	}
 	
+	//pour afficher le fichier .ser
 	public void readFile() {
 		try {
 			String path = "/home/houssam/workspace/projects/Java/Logs/Results.ser";
 			FileInputStream fis = new FileInputStream(path);
 			ObjectInputStream ois = new ObjectInputStream(fis);
 			Etudiant et = (Etudiant)ois.readObject();
-			System.out.println("-> La désérialisation: ");
+			System.out.println("\n-> La désérialisation: ");
 			System.out.println(et.nom);
 			System.out.println(et.prenom);
 			System.out.println(et.mat);
 			System.out.println(et.niv);
-			System.out.println(et.spec);
+			System.out.println(et.spec+"\n");
 			ois.close();
 		} catch (IOException IOe) {
 			// TODO: handle exception
