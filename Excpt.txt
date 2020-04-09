@@ -1,0 +1,58 @@
+TryNull java.lang main at line: 16
+TryNull java.lang main at line: 14date: Sun Mar 08 12:22:14 CET 2020
+CLASS: TryNull PACKAGE java.lang METHODE main ->>at line: 14 ->>date: Sun Mar 08 12:23:20 CET 2020
+Class: null Package: null Methode: null line: 0 AT: Sun Mar 08 12:32:30 CET 2020
+Class: null Package: null Methode: null line: 0 AT: Sun Mar 08 12:32:56 CET 2020
+Class: TryNull Package: java.lang Methode: main line: 12 AT: Sun Mar 08 16:57:37 CET 2020
+Class: Test Package: java.lang Methode: main line: 22 AT: Wed Mar 11 15:43:10 CET 2020
+Class: Test Package: java.lang Methode: main line: 22 AT: Wed Mar 11 15:43:36 CET 2020
+Class: Test Package: java.lang Methode: main line: 22 AT: Wed Mar 11 15:43:58 CET 2020
+Class: Test Package: java.lang Methode: main line: 22 AT: Wed Mar 11 15:44:34 CET 2020
+Class: Test Package: java.lang Methode: main line: 22 AT: Wed Mar 11 15:44:40 CET 2020
+Class: Test Package: java.lang Methode: main line: 22 AT: Wed Mar 11 15:45:21 CET 2020
+Class: Test Package: java.lang Methode: main line: 22 AT: Wed Mar 11 15:45:59 CET 2020
+Class: Test Package: java.lang Methode: main line: 22 AT: Wed Mar 11 15:50:29 CET 2020 message: 3
+Class: Test Package: java.lang Methode: main line: 22 AT: Wed Mar 11 15:51:41 CET 2020 message: 3
+Class: Test Package: java.lang Methode: main line: 22 AT: Wed Mar 11 15:54:53 CET 2020 message: 3
+Class: Test Package: java.lang Methode: main line: 22 AT: Wed Mar 11 15:55:15 CET 2020 message: 3
+Class: Test Package: java.lang Methode: main line: 27 AT: Wed Mar 11 15:57:37 CET 2020 message: / by zero
+Class: java.io.FileInputStream Package: java.lang Methode: open0 line: -2 AT: Sun Mar 22 19:26:02 CET 2020 message: /home/houssam/workspace/projects/Java/JavaTpRevision/bin/pack/C.java (Aucun fichier ou dossier de ce type)
+
+Class: Test Package: java.lang Methode: main line: 32 AT: Sun Mar 22 19:31:29 CET 2020 message: / by zero
+Class: Test Package: java.lang Methode: main line: 32 AT: Sun Mar 22 19:31:38 CET 2020 message: / by zero
+Class: Test Package: java.lang Methode: main line: 41 AT: Sun Mar 22 19:35:38 CET 2020 message: / by zero
+Class: Test Package: java.lang Methode: main line: 41 AT: Sun Mar 22 19:36:19 CET 2020 message: / by zero
+Class: Test Package: java.lang Methode: main line: 41 AT: Sun Mar 22 19:37:42 CET 2020 message: / by zero
+Class: Test Package: java.lang Methode: main line: 41 AT: Sun Mar 22 19:37:52 CET 2020 message: / by zero
+Class: Test Package: java.lang Methode: main line: 41 AT: Sun Mar 22 19:38:52 CET 2020 message: / by zero
+Class: Test Package: java.lang Methode: main line: 44 AT: Sun Mar 22 19:44:20 CET 2020 message: / by zero
+Class: Pack.ReflexionExemple Package: java.lang Methode: main line: 34 AT: Sat Apr 04 18:00:31 CET 2020 message: 6
+Class: Pack.ReflexionExemple Package: java.lang Methode: main line: 34 AT: Sat Apr 04 18:01:22 CET 2020 message: 6
+Class: Pack.ReflexionExemple Package: java.lang Methode: main line: 34 AT: Sat Apr 04 18:02:22 CET 2020 message: 6
+Class: Pack.ReflexionExemple Package: java.lang Methode: main line: 34 AT: Sat Apr 04 18:02:39 CET 2020 message: 6
+Class: Pack.ReflexionExemple Package: java.lang Methode: main line: 34 AT: Sat Apr 04 18:03:11 CET 2020 message: 6
+Class: Pack.ReflexionExemple Package: java.lang Methode: main line: 46 AT: Sat Apr 04 18:15:00 CET 2020 message: null
+Class: Pack.ReflexionExemple Package: java.lang Methode: main line: 48 AT: Sat Apr 04 18:17:52 CET 2020 message: null
+Class: P Package: java.lang Methode: main line: 20 AT: Thu Apr 09 19:30:28 CET 2020 message: / by zero
+Class: java.io.ObjectOutputStream Package: java.lang Methode: writeObject0 line: 1184 AT: Thu Apr 09 19:38:38 CET 2020 message: Etudiant
+Class: java.io.ObjectOutputStream Package: java.lang Methode: writeObject0 line: 1184 AT: Thu Apr 09 19:38:38 CET 2020 message: Etudiant
+Class: java.io.ObjectOutputStream Package: java.lang Methode: writeObject0 line: 1184 AT: Thu Apr 09 19:45:27 CET 2020 message: Etudiant
+Class: java.io.ObjectOutputStream Package: java.lang Methode: writeObject0 line: 1184 AT: Thu Apr 09 19:45:27 CET 2020 message: Etudiant
+Class: java.io.ObjectOutputStream Package: java.lang Methode: writeObject0 line: 1184 AT: Thu Apr 09 19:46:33 CET 2020 message: Etudiant
+Class: java.io.ObjectOutputStream Package: java.lang Methode: writeObject0 line: 1184 AT: Thu Apr 09 19:46:33 CET 2020 message: Etudiant
+Class: java.io.ObjectOutputStream Package: java.lang Methode: writeObject0 line: 1184 AT: Thu Apr 09 19:46:48 CET 2020 message: Etudiant
+Class: java.io.ObjectOutputStream Package: java.lang Methode: writeObject0 line: 1184 AT: Thu Apr 09 19:46:48 CET 2020 message: Etudiant
+Class: java.io.ObjectOutputStream Package: java.lang Methode: writeObject0 line: 1184 AT: Thu Apr 09 19:48:23 CET 2020 message: Etudiant
+Class: java.io.ObjectOutputStream Package: java.lang Methode: writeObject0 line: 1184 AT: Thu Apr 09 19:48:23 CET 2020 message: Etudiant
+Class: java.io.ObjectOutputStream Package: java.lang Methode: writeObject0 line: 1184 AT: Thu Apr 09 19:49:29 CET 2020 message: Etudiant
+Class: java.io.ObjectOutputStream Package: java.lang Methode: writeObject0 line: 1184 AT: Thu Apr 09 19:49:29 CET 2020 message: Etudiant
+Class: java.io.ObjectOutputStream Package: java.lang Methode: writeObject0 line: 1184 AT: Thu Apr 09 19:52:03 CET 2020 message: Etudiant
+Class: java.io.ObjectOutputStream Package: java.lang Methode: writeObject0 line: 1184 AT: Thu Apr 09 19:52:03 CET 2020 message: Etudiant
+Class: java.io.ObjectOutputStream Package: java.lang Methode: writeObject0 line: 1184 AT: Thu Apr 09 19:58:42 CET 2020 message: Etudiant
+Class: java.io.ObjectOutputStream Package: java.lang Methode: writeObject0 line: 1184 AT: Thu Apr 09 19:58:42 CET 2020 message: Etudiant
+Class: java.io.ObjectOutputStream Package: java.lang Methode: writeObject0 line: 1184 AT: Thu Apr 09 19:58:56 CET 2020 message: Etudiant
+Class: java.io.ObjectOutputStream Package: java.lang Methode: writeObject0 line: 1184 AT: Thu Apr 09 19:58:56 CET 2020 message: Etudiant
+Class: java.io.ObjectOutputStream Package: java.lang Methode: writeObject0 line: 1184 AT: Thu Apr 09 20:00:12 CET 2020 message: Etudiant
+Class: java.io.ObjectOutputStream Package: java.lang Methode: writeObject0 line: 1184 AT: Thu Apr 09 20:00:12 CET 2020 message: Etudiant
+Class: java.io.ObjectOutputStream Package: java.lang Methode: writeObject0 line: 1184 AT: Thu Apr 09 20:00:55 CET 2020 message: Etudiant
+Class: java.io.ObjectOutputStream Package: java.lang Methode: writeObject0 line: 1184 AT: Thu Apr 09 20:00:55 CET 2020 message: Etudiant
